@@ -1138,3 +1138,36 @@ a.enlarge span {
 .panel h2.title {
 	display: none;
 }
+
+/* ---------------- GitHub ---------------------- */
+
+#logo {
+	border-radius:10px;
+}
+
+.iphone-left img {
+	width: 288px;
+	height: 574px;
+	float: left;
+	position: relative;
+	z-index: 5;
+}
+
+.iphone-right img {
+	width: 260px;
+	height: 516px;
+	float: left;
+	position: absolute;
+	top: 58px;
+	left: 80px;
+	z-index: 1;
+}
+
+a.box0 {
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+#email {
+	color:#5e5e5e;
+}
